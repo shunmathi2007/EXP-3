@@ -55,7 +55,7 @@ Cross connection: CIRCUIT DIAGRAM:
 <img width="930" height="403" alt="Screenshot 2026-05-29 122442" src="https://github.com/user-attachments/assets/6d9e5b31-5451-4a35-b64a-2d882986de9b" />
 
 Tabulation:2
-<img width="840" height="538" alt="Screenshot 2026-05-29 122452" src="https://github.com/user-attachments/assets/744cbd4a-a132-46f4-a125-4ab0df6264c0" />
+<img width="840" height="538" alt="Screenshot 2026-05-29 122452" src="https://github.com/user-attachments/assets/e1845ca3-5d02-4f0a-bad3-acb2c092e0fb" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
